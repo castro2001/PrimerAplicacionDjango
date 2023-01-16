@@ -1,0 +1,1 @@
+web:gunicorn Plantilla.wsgi --log-file -
